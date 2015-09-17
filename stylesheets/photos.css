@@ -1,0 +1,26 @@
+#container #content #info ul {
+	margin: 0px;
+	padding: 5px;
+}
+#container #content #info li {
+	text-decoration: none;
+	text-align: center;
+	display: inline;
+	list-style-type: none;
+	margin-right: 5px;
+	margin-left: 5px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.mainimage {
+	clear: both;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-bottom: 10px;
+	margin-left: 20px;
+}
+
+#container #content #info #thumb {
+	margin-right: 5px;
+	margin-left: 5px;
+}
