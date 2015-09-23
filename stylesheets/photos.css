@@ -1,6 +1,9 @@
 #container #content #info ul {
 	margin: 0px;
-	padding: 5px;
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-left: 11px;
 }
 #container #content #info li {
 	text-decoration: none;
